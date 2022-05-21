@@ -1,0 +1,7 @@
+setup.py
+src/pydemo/__init__.py
+src/pydemo/main.py
+src/pydemo.egg-info/PKG-INFO
+src/pydemo.egg-info/SOURCES.txt
+src/pydemo.egg-info/dependency_links.txt
+src/pydemo.egg-info/top_level.txt
